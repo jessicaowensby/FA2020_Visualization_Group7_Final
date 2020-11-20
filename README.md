@@ -3,10 +3,10 @@
 
 #### An overview of the goals ###
 
-We plan to develop a dashboard that explores the question:  What is the relationship between 311 call reasons and abandoned properties to reveal reasons why areas might have less housing?
+We plan to develop a dashboard that explores the question:  What is the relationship between Police use of force and abandoned properties to reveal reasons why areas might have less housing?
 Our visualization will involve 2 layers shown over the South Bend area:
 
-1. 311 call counts colored by call reasons.
+1. Police Use of Force.
 
 2. Abandoned property counts.
 
